@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/bin/Debug/net7.0/Bai2_FactoryMethod
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/bin/Debug/net7.0/Bai2_FactoryMethod.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/bin/Debug/net7.0/Bai2_FactoryMethod.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/bin/Debug/net7.0/Bai2_FactoryMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/bin/Debug/net7.0/Bai2_FactoryMethod.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/refint/Bai2_FactoryMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/Bai2_FactoryMethod.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week3/Bai2_FactoryMethod/obj/Debug/net7.0/ref/Bai2_FactoryMethod.dll

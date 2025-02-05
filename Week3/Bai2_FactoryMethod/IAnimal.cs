@@ -1,0 +1,3 @@
+interface IAnimal {
+	void AboutMe();
+}
