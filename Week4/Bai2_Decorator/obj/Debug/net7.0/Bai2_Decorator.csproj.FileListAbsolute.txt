@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/bin/Debug/net7.0/Bai2_Decorator
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/bin/Debug/net7.0/Bai2_Decorator.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/bin/Debug/net7.0/Bai2_Decorator.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/bin/Debug/net7.0/Bai2_Decorator.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/bin/Debug/net7.0/Bai2_Decorator.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/refint/Bai2_Decorator.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/Bai2_Decorator.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai2_Decorator/obj/Debug/net7.0/ref/Bai2_Decorator.dll
