@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/bin/Debug/net7.0/Bai1_Proxy
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/bin/Debug/net7.0/Bai1_Proxy.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/bin/Debug/net7.0/Bai1_Proxy.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/bin/Debug/net7.0/Bai1_Proxy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/bin/Debug/net7.0/Bai1_Proxy.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/refint/Bai1_Proxy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/Bai1_Proxy.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week4/Bai1_Proxy/obj/Debug/net7.0/ref/Bai1_Proxy.dll
