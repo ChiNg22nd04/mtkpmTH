@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/bin/Debug/net7.0/Bai2_Facade
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/bin/Debug/net7.0/Bai2_Facade.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/bin/Debug/net7.0/Bai2_Facade.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/bin/Debug/net7.0/Bai2_Facade.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/bin/Debug/net7.0/Bai2_Facade.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/refint/Bai2_Facade.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/Bai2_Facade.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai2_Facade/obj/Debug/net7.0/ref/Bai2_Facade.dll
