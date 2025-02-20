@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/bin/Debug/net7.0/Bai1_Adapter
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/bin/Debug/net7.0/Bai1_Adapter.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/bin/Debug/net7.0/Bai1_Adapter.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/bin/Debug/net7.0/Bai1_Adapter.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/bin/Debug/net7.0/Bai1_Adapter.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/refint/Bai1_Adapter.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/Bai1_Adapter.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week5/Bai1_Adapter/obj/Debug/net7.0/ref/Bai1_Adapter.dll
