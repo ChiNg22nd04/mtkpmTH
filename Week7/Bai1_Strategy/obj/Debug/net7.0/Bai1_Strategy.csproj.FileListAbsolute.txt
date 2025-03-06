@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/bin/Debug/net7.0/Bai1_Strategy
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/bin/Debug/net7.0/Bai1_Strategy.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/bin/Debug/net7.0/Bai1_Strategy.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/bin/Debug/net7.0/Bai1_Strategy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/bin/Debug/net7.0/Bai1_Strategy.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/refint/Bai1_Strategy.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/Bai1_Strategy.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai1_Strategy/obj/Debug/net7.0/ref/Bai1_Strategy.dll

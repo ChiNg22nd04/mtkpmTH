@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/bin/Debug/net7.0/Bai1_Composite
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/bin/Debug/net7.0/Bai1_Composite.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/bin/Debug/net7.0/Bai1_Composite.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/bin/Debug/net7.0/Bai1_Composite.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/bin/Debug/net7.0/Bai1_Composite.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/refint/Bai1_Composite.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/Bai1_Composite.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai1_Composite/obj/Debug/net7.0/ref/Bai1_Composite.dll

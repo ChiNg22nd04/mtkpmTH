@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/bin/Debug/net7.0/Bai2_Bridge
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/bin/Debug/net7.0/Bai2_Bridge.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/bin/Debug/net7.0/Bai2_Bridge.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/bin/Debug/net7.0/Bai2_Bridge.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/bin/Debug/net7.0/Bai2_Bridge.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/refint/Bai2_Bridge.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/Bai2_Bridge.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week6/Bai2_Bridge/obj/Debug/net7.0/ref/Bai2_Bridge.dll

@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/bin/Debug/net7.0/Bai2_TemplateMethod
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/bin/Debug/net7.0/Bai2_TemplateMethod.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/bin/Debug/net7.0/Bai2_TemplateMethod.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/bin/Debug/net7.0/Bai2_TemplateMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/bin/Debug/net7.0/Bai2_TemplateMethod.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/refint/Bai2_TemplateMethod.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/Bai2_TemplateMethod.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week7/Bai2_TemplateMethod/obj/Debug/net7.0/ref/Bai2_TemplateMethod.dll
