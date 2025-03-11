@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/bin/Debug/net7.0/Week8
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/bin/Debug/net7.0/Week8.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/bin/Debug/net7.0/Week8.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/bin/Debug/net7.0/Week8.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/bin/Debug/net7.0/Week8.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/refint/Week8.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/Week8.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Week8/obj/Debug/net7.0/ref/Week8.dll
