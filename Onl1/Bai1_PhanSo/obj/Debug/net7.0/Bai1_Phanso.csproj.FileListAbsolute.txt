@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/bin/Debug/net7.0/Bai1_Phanso
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/bin/Debug/net7.0/Bai1_Phanso.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/bin/Debug/net7.0/Bai1_Phanso.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/bin/Debug/net7.0/Bai1_Phanso.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/bin/Debug/net7.0/Bai1_Phanso.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/refint/Bai1_Phanso.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/Bai1_Phanso.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl1/Bai1_PhanSo/obj/Debug/net7.0/ref/Bai1_Phanso.dll
