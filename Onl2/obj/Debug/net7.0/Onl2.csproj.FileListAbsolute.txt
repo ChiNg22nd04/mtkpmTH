@@ -1,0 +1,15 @@
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/bin/Debug/net7.0/Onl2
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/bin/Debug/net7.0/Onl2.deps.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/bin/Debug/net7.0/Onl2.runtimeconfig.json
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/bin/Debug/net7.0/Onl2.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/bin/Debug/net7.0/Onl2.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.csproj.AssemblyReference.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.AssemblyInfoInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.AssemblyInfo.cs
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.csproj.CoreCompileInputs.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/refint/Onl2.dll
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.pdb
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/Onl2.genruntimeconfig.cache
+/Users/chiii/svHuflit/sv3HK2/mtkpmTH/Onl2/obj/Debug/net7.0/ref/Onl2.dll
